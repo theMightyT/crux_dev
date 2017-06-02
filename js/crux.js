@@ -2,7 +2,8 @@
 	$('.Portfolio-box a').click(function() {
 		// lauch lightbox here
 		if ($(this).attr('href') !== "#") {
-			// navigate to url, or show a site screenshot?
+			// navigate to url, or show a site screenshot? alternatively could load it in an iframe or even a modal
+			window.open($(this).attr('href'), '_blank'); 
 		} else {
 			$(document.body).css('overflow', 'hidden');
 
