@@ -29,6 +29,8 @@
 <link href="css/responsive.css" rel="stylesheet" type="text/css">
 <link href="css/animate.css" rel="stylesheet" type="text/css">
 
+<link rel="stylesheet" type="text/css" href="css/crux_new.css">
+
 <!--[if IE]><style type="text/css">.pie {behavior:url(PIE.htc);}</style><![endif]-->
 
 <script type="text/javascript" src="js/jquery.1.8.3.min.js"></script>
@@ -52,11 +54,15 @@
 <header class="header" id="header"><!--header-start-->
 	<div class="container">
     	<figure class="logo animated fadeInDown delay-07s">
-        	<a href="#"><img src="img/logo.png" alt=""></a>	
-        </figure>	
-        <h1 class="animated fadeInDown delay-07s">Welcome To Knight Studios</h1>
+        	<a href="#">
+                <img src="img/crux.svg" alt="crux studios main logo">
+            </a>	
+        </figure>
+
+        <h1 class="animated fadeInDown delay-07s">We love crafting beautiful things.</h1>
         <ul class="we-create animated fadeInUp delay-1s">
-        	<li>We are a digital agency that loves crafting beautiful websites.</li>
+        	<!-- <li>We love crafting beautiful things.</li> -->
+            <li>The magic is the collaborative effort between our clients and our team.</li>
         </ul>
             <a class="link animated fadeInUp delay-1s servicelink" href="#service">Get Started</a>
     </div>
@@ -65,7 +71,7 @@
 <nav class="main-nav-outer" id="test"><!--main-nav-start-->
 	<div class="container">
         <ul class="main-nav">
-	    <li class="small-logo"><a href="#header"><img src="img/small-logo.png" alt=""></a></li>
+	    <li class="small-logo"><a href="#header"><img src="img/small-logo.png" class="hiddenlogo" alt=""></a></li>
             <li><a href="#header">Home</a></li>
             <li><a href="#service">Services</a></li>
             <li><a href="#Portfolio">Portfolio</a></li>
@@ -82,7 +88,7 @@
 <section class="main-section" id="service"><!--main-section-start-->
 	<div class="container">
     	<h2>Services</h2>
-    	<h6>We offer exceptional service with complimentary hugs.</h6>
+    	<h6>Design. Development. Hosting. Solutions. A true full-service studio.</h6>
         <div class="row">
         	<div class="col-lg-4 col-sm-6 wow fadeInLeft delay-05s">
             	<div class="service-list">
@@ -91,7 +97,8 @@
                     </div>
                 	<div class="service-list-col2">
                         <h3>branding &amp; identity</h3>
-                        <p>Proin iaculis purus digni consequat sem digni ssim. Donec entum digni ssim.</p>
+                        <p>Whether it's a brand new identity or rolling out new products or services, Crux has you covered. 
+                            Meticulous attention to detail ensures your brand identity is protected. <br>And noticed.</p>
                     </div>
                 </div>
                 <div class="service-list">
@@ -100,27 +107,27 @@
                     </div>
                 	<div class="service-list-col2">
                         <h3>web development</h3>
-                        <p>Proin iaculis purus consequat sem digni ssim. Digni ssim porttitora .</p>
+                        <p>Crux delivers outstanding creative solutions hand-crafted using industry-standard (and leading) technologies and techniques.</p>
                     </div>
                 </div>
                 <div class="service-list">
                 	<div class="service-list-col1">
-                    	<i class="fa-apple"></i>
+                    	<i class="fa-globe"></i>
                     </div>
                 	<div class="service-list-col2">
-                        <h3>mobile design</h3>
-                        <p>Proin iaculis purus consequat digni sem digni ssim. Purus donec porttitora entum.</p>
+                        <h3>hosting</h3>
+                        <p>Crux provides hosting for small to medium sized business with full support and competitive rates.</p>
                     </div>
                 </div>
-                <div class="service-list">
+                <!-- <div class="service-list">
                 	<div class="service-list-col1">
                     	<i class="fa-medkit"></i>
                     </div>
                 	<div class="service-list-col2">
                         <h3>24/7 Support</h3>
-                        <p>Proin iaculis purus consequat sem digni ssim. Sem porttitora entum.</p>
+                        <p>Crux stands behind their work. In the unlikely event that something breaks, we're here to get you back up and running.</p>
                     </div>
-                </div>
+                </div> -->
             </div>
             <figure class="col-lg-8 col-sm-6  text-right wow fadeInUp delay-02s">
             	<img src="img/macbook-pro.png" alt="">
@@ -261,36 +268,36 @@ we were well fed and drunk all the time!</p>
         <h6>Take a closer look into our amazing team. We won’t bite.</h6>
         <div class="team-leader-block clearfix">
             <div class="team-leader-box">
-                <div class="team-leader wow fadeInDown delay-03s"> 
-                    <div class="team-leader-shadow"><a href="#"></a></div>
+                <div class="team-leader wow"> 
+                    <!-- <div class="team-leader-shadow"><a href="#"></a></div> -->
                     <img src="img/team-leader-pic1.jpg" alt="">
-                    <ul>
+                    <!-- <ul>
                         <li><a href="#" class="fa-twitter"></a></li>
                         <li><a href="#" class="fa-facebook"></a></li>
                         <li><a href="#" class="fa-pinterest"></a></li>
                         <li><a href="#" class="fa-google-plus"></a></li>
-                    </ul>
+                    </ul> -->
                 </div>
-                <h3 class="wow fadeInDown delay-03s">Walter White</h3>
-                <span class="wow fadeInDown delay-03s">Chief Executive Officer</span>
-                <p class="wow fadeInDown delay-03s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
+                <h3 class="wow">Justin Brunner</h3>
+                <span class="wow">Design Lead</span>
+                <p class="wow">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
             </div>
             <div class="team-leader-box">
-                <div class="team-leader  wow fadeInDown delay-06s"> 
-                    <div class="team-leader-shadow"><a href="#"></a></div>
+                <div class="team-leader"> 
+                    <!-- <div class="team-leader-shadow"><a href="#"></a></div> -->
                     <img src="img/team-leader-pic2.jpg" alt="">
-                    <ul>
+                    <!-- <ul>
                         <li><a href="#" class="fa-twitter"></a></li>
                         <li><a href="#" class="fa-facebook"></a></li>
                         <li><a href="#" class="fa-pinterest"></a></li>
                         <li><a href="#" class="fa-google-plus"></a></li>
-                    </ul>
+                    </ul> -->
                 </div>
-                <h3 class="wow fadeInDown delay-06s">Jesse Pinkman</h3>
-                <span class="wow fadeInDown delay-06s">Product Manager</span>
-                <p class="wow fadeInDown delay-06s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
+                <h3 class="wow">Trevor Van Rys</h3>
+                <span class="wow">Development Lead</span>
+                <p class="wow">Trevor brings over 15 years of experience in the industry and passion for creating beautiful interactive solutions that just work.</p>
             </div>
-            <div class="team-leader-box">
+            <!-- <div class="team-leader-box">
                 <div class="team-leader wow fadeInDown delay-09s"> 
                     <div class="team-leader-shadow"><a href="#"></a></div>
                     <img src="img/team-leader-pic3.jpg" alt="">
@@ -304,7 +311,7 @@ we were well fed and drunk all the time!</p>
                 <h3 class="wow fadeInDown delay-09s">Skyler white</h3>
                 <span class="wow fadeInDown delay-09s">Accountant</span>
                 <p class="wow fadeInDown delay-09s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
-            </div>
+            </div> -->
         </div>
     </div>
 </section><!--main-section team-end-->
@@ -321,10 +328,10 @@ we were well fed and drunk all the time!</p>
 	
         <div class="row">
         	<div class="col-lg-6 col-sm-7 wow fadeInLeft">
-            	<div class="contact-info-box address clearfix">
+            	<!-- <div class="contact-info-box address clearfix">
                 	<h3><i class=" icon-map-marker"></i>Address:</h3>
                 	<span>308 Negra Arroyo Lane<br>Albuquerque, New Mexico, 87111.</span>
-                </div>
+                </div> -->
                 <div class="contact-info-box phone clearfix">
                 	<h3><i class="fa-phone"></i>Phone:</h3>
                 	<span>1-800-BOO-YAHH</span>
@@ -333,17 +340,17 @@ we were well fed and drunk all the time!</p>
                 	<h3><i class="fa-pencil"></i>email:</h3>
                 	<span>hello@knightstudios.com</span>
                 </div>
-            	<div class="contact-info-box hours clearfix">
+            	<!-- <div class="contact-info-box hours clearfix">
                 	<h3><i class="fa-clock-o"></i>Hours:</h3>
                 	<span><strong>Monday - Thursday:</strong> 10am - 6pm<br><strong>Friday:</strong> People work on Fridays now?<br><strong>Saturday - Sunday:</strong> Best not to ask.</span>
-                </div>
+                </div> 
                 <ul class="social-link">
                 	<li class="twitter"><a href="#"><i class="fa-twitter"></i></a></li>
                     <li class="facebook"><a href="#"><i class="fa-facebook"></i></a></li>
                     <li class="pinterest"><a href="#"><i class="fa-pinterest"></i></a></li>
                     <li class="gplus"><a href="#"><i class="fa-google-plus"></i></a></li>
                     <li class="dribbble"><a href="#"><i class="fa-dribbble"></i></a></li>
-                </ul>
+                </ul>-->
             </div>
         	<div class="col-lg-6 col-sm-5 wow fadeInUp delay-05s">
             	<div class="form">
@@ -377,9 +384,13 @@ we were well fed and drunk all the time!</p>
 </div>
 <footer class="footer">
     <div class="container">
-        <div class="footer-logo"><a href="#"><img src="img/footer-logo.png" alt=""></a></div>
-        <span class="copyright">&copy; Knight Theme. All Rights Reserved</span>
-        <div class="credits">
+        <div class="footer-logo">
+            <a href="#">
+                <img src="img/crux.svg" alt="crux main logo">
+            </a>
+        </div>
+        <span class="copyright hidden">&copy; Knight Theme. All Rights Reserved</span>
+        <div class="credits hidden">
             <!-- 
                 All the links in the footer should remain intact. 
                 You can delete the links only if you purchased the pro version.
@@ -484,6 +495,6 @@ $(window).load(function(){
 });
 
 </script>
-
+<script src="js/crux.js"></script>
 </body>
 </html>

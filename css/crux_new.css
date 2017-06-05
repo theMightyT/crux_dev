@@ -1,4 +1,10 @@
-.header { padding: 190px 0; }
+.header { padding: 200px 0; }
+
+.header h1 { font-size: 36px; margin-bottom: 0; }
+
+.we-create { margin-top: 8px; }
+
+.logo { width: 245px; margin-bottom: 60px; }
 
 .service-list .fa-mobile { font-size: 50px; padding-left: 7px; }
 
@@ -24,3 +30,21 @@
 }
 
 [role="button"] { cursor: pointer; }
+
+.footer-logo { width: 95px; }
+
+.hiddenlogo { opacity: 0; pointer-events: none; }
+
+.small-logo a { cursor: default; }
+
+.team-leader-block {
+    max-width: 993px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.team-leader-box {
+    margin: 0 5.82979%;
+    display: inline-block;
+    float: none;
+}
