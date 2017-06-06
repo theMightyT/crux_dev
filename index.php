@@ -406,6 +406,10 @@ we were well fed and drunk all the time!</p>
     </div>
 </footer>
 
+<div class="lightbox">
+    <i class="fa fa-times close-lightbox" role="button"></i>
+    <h3 class="temp"></h3>
+</div>
 
 <script type="text/javascript">
     $(document).ready(function(e) {
