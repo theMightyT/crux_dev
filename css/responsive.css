@@ -3,7 +3,7 @@
    ========================================================================== */
 
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1201px) {
 	/****Ipad Landscape 1024 Container 970 ****/
 	
 	.service-list{ margin-bottom:30px;}
@@ -14,7 +14,7 @@
 	
 }	
    
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
 	/****Ipad Portrait 768 Container 750 ****/
 	body{ font-size:13px;}
 	p{ line-height:20px ;}
@@ -43,7 +43,7 @@
 	
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 1023px) {
 	/****Mobile Landscape 480 Container 100% ****/
 	body{ font-size:12px;}
 	h2{ font-size:26px;}
@@ -58,7 +58,7 @@
 	.main-nav{ display:none; position:absolute; left:0; width:100%; top:74px; margin:0 auto; flote : none; background:#fff;}
 	.main-nav li{ display:block;}
 	.main-nav li.small-logo{ display:none;}
-	.main-nav li a{ display:block; padding:7px 32px; border-bottom:none;}
+	.main-nav li a{ display:block; padding:7px 7px; border-bottom:none;}
 	.main-nav li a:hover{color:#7cc576}
 	.team-leader-box{ max-width:307px; width:auto; float:none; margin:0 auto;	}
 	.team-leader-box:nth-of-type(3n){ margin:0 auto}

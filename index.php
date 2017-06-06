@@ -72,7 +72,6 @@
 	<div class="container">
         <ul class="main-nav">
 	    <li class="small-logo"><a href="#header"><img src="img/crux_logo.svg" alt=""></a></li>
-            <li><a href="#header">Home</a></li>
             <li><a href="#service">Services</a></li>
             <li><a href="#Portfolio">Portfolio</a></li>
             <li><a href="#client">Clients</a></li>
