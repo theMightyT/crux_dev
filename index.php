@@ -204,8 +204,8 @@
                     <p>Print Design</p>
                 </div>
                 <div class="Portfolio-box webdesign">
-                	<a href="#"><img src="img/Portfolio-pic2.jpg" alt=""></a>	
-                	<h3>Luca Theme</h3>
+                	<a href="#"><img src="img/sm_EPB.jpg" alt=""></a>	
+                	<h3>DEX - Interface Design</h3>
                     <p>Web Design</p>
                 </div>
                 <div class=" Portfolio-box branding">
@@ -214,8 +214,8 @@
                     <p>Branding</p>
                 </div>
                 <div class=" Portfolio-box photography" >
-                	<a href="#"><img src="img/Portfolio-pic4.jpg" alt=""></a>	
-                	<h3>Vinyl Record</h3>
+                	<a href="#"><img src="img/sm_law_enforcement.jpg" alt=""></a>	
+                	<h3>London Police Services</h3>
                     <p>Photography</p>
                 </div>
                 <div class=" Portfolio-box branding">
@@ -407,7 +407,9 @@ we were well fed and drunk all the time!</p>
 
 <div class="lightbox">
     <i class="fa fa-times close-lightbox" role="button"></i>
+    <img src="" alt="selected portfolio image" class="img-responsive">
     <h3 class="temp"></h3>
+    <p></p>
 </div>
 
 <script type="text/javascript">
