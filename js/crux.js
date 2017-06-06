@@ -8,6 +8,16 @@
 		lg_EPB : {
 			heading : "Interface Design for DEX",
 			details : "DEX is a tech startup in London working on solving user engagement problems across multiple channels, in multiple spaces. Crux designed interfaces, portals and branding."
+		},
+
+		lg_iv : {
+			heading : "In Vitro Interactive Educational Program &nbsp;&bull;&nbsp; London Health Sciences Centre",
+			details : "We used audio, video and detailed scripts to create an interactive educational program for LHSC. The goal was to educate prospective embryo transplant candidates about the issues surrounding their choices, and help guide them to the best decision using interactive tools."
+		},
+
+		lg_ergo : {
+			heading : "Ergonomics App &nbsp;&bull;&nbsp; 3M",
+			details : "Developed an ergnomic pain point application for 3M. Using supplied design, the development involved interactive, dynamic pain point selection which would be used to determine the best available ergonomic products for the user. Video promos were part of the package, as well as links to various parts of the 3M ergo site."
 		}
 	}
 	// todo => keep lightbox at top on window resize (kinda works now but the media query breaks it at one point)

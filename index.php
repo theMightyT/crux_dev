@@ -189,8 +189,8 @@
       <div class="portfolioFilter">  
         <ul class="Portfolio-nav wow fadeIn delay-02s">
         	<li><a href="#" data-filter="*" class="current" >All</a></li>
-            <li><a href="#" data-filter=".branding" >Branding</a></li>
             <li><a href="#" data-filter=".webdesign" >Web design</a></li>
+            <li><a href="#" data-filter=".development">Development</a></li>
             <li><a href="#" data-filter=".printdesign" >Print design</a></li>
             <li><a href="#" data-filter=".photography" >Photography</a></li>
         </ul>
@@ -208,20 +208,20 @@
                 	<h3>DEX - Interface Design</h3>
                     <p>Web Design</p>
                 </div>
-                <div class=" Portfolio-box branding">
-                	<a href="#"><img src="img/Portfolio-pic3.jpg" alt=""></a>	
-                	<h3>Uni Sans</h3>
-                    <p>Branding</p>
+                <div class=" Portfolio-box development">
+                	<a href="#"><img src="img/sm_iv.jpg" alt=""></a>	
+                	<h3>LHSC In Vitro</h3>
+                    <p>Development</p>
                 </div>
                 <div class=" Portfolio-box photography" >
                 	<a href="#"><img src="img/sm_law_enforcement.jpg" alt=""></a>	
                 	<h3>London Police Services</h3>
                     <p>Photography</p>
                 </div>
-                <div class=" Portfolio-box branding">
-                	<a href="#"><img src="img/Portfolio-pic5.jpg" alt=""></a>	
-                	<h3>Hipster</h3>
-                    <p>Branding</p>
+                <div class=" Portfolio-box development">
+                	<a href="#"><img src="img/sm_ergo.jpg" alt=""></a>	
+                	<h3>3M Ergonomics</h3>
+                    <p>Development</p>
                 </div>
                 <div class=" Portfolio-box photography">
                 	<a href="#"><img src="img/Portfolio-pic6.jpg" alt=""></a>	
