@@ -145,7 +145,7 @@ color: #fff;
 
 .link{
 	padding:15px 35px;
-	background:#7cc576;
+	background:#ca2026;
 	color:#fff !important;
 	font-size:16px;
 	font-weight:400;
@@ -161,12 +161,12 @@ color: #fff;
 }
 .link:hover {
 	text-decoration:none;
-	color:#7cc576 !important;
+	color:#ca2026 !important;
 	background:#fff;
 }
 
 .link:active, .link:focus {
-	background: #7cc576;
+	background: #ca2026;
 	text-decoration:none;
 	color:#fff !important;
 }
@@ -205,7 +205,7 @@ color: #fff;
 
 .main-nav li a:hover{ 
 	text-decoration:none;
-	color: #7cc576;
+	color: #ca2026;
 }
 
 .small-logo{ 
@@ -340,7 +340,7 @@ color: #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .Portfolio-nav li a:hover{
-	background:#7cc576;
+	background:#ca2026;
 	color:#fff;
 	text-decoration:none;
 }
@@ -371,7 +371,7 @@ color: #fff;
 }
 
 .Portfolio-nav li a.current{
-	background:#7cc576;
+	background:#ca2026;
 	color:#fff;
 	text-decoration:none;
 }
@@ -445,13 +445,13 @@ img {
 	width:68px;
 	height:68px;
 	margin:0 auto;
-	border:2px solid #7cc576;
+	border:2px solid #ca2026;
 	border-radius:50%;
 	display:block;
 	line-height:68px;
 	text-align:center;
 	font-size:27px;
-	color:#7cc576;
+	color:#ca2026;
 	cursor: pointer;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
@@ -464,7 +464,7 @@ border: 2px solid #fff;
 }
 
 .c-logo-part{
-	background:#7cc576;
+	background:#ca2026;
 	padding:25px 0;
     filter: alpha(opacity=60);
 }
@@ -718,7 +718,7 @@ border: 2px solid #fff;
 .input-btn{
 	width:175px;
 	height:50px;
-	background:#7cc576;
+	background:#ca2026;
 	border-radius:4px;
 	color:#ffffff;
 	font-size:14px;

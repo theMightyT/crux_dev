@@ -71,7 +71,7 @@
 <nav class="main-nav-outer" id="test"><!--main-nav-start-->
 	<div class="container">
         <ul class="main-nav">
-	    <li class="small-logo"><a href="#header"><img src="img/small-logo.png" class="hiddenlogo" alt=""></a></li>
+	    <li class="small-logo"><a href="#header"><img src="img/crux_logo.svg" alt=""></a></li>
             <li><a href="#header">Home</a></li>
             <li><a href="#service">Services</a></li>
             <li><a href="#Portfolio">Portfolio</a></li>
@@ -139,7 +139,7 @@
 
 
 
-<section class="main-section alabaster"><!--main-section alabaster-start-->
+<!--<section class="main-section alabaster">
 	<div class="container">
     	<div class="row">
 			<figure class="col-lg-5 col-sm-4 wow fadeInLeft">
@@ -179,11 +179,11 @@
             </div>
         </div>
 	</div>
-</section><!--main-section alabaster-end-->
+</section>-->
 
 
 
-<section class="main-section paddind" id="Portfolio"><!--main-section-start-->
+<section class="main-section paddind alabaster" id="Portfolio"><!--main-section-start-->
 	<div class="container">
     	<h2>Portfolio</h2>
     	<h6>Fresh portfolio of designs that will keep you wanting more.</h6>
@@ -270,7 +270,7 @@ we were well fed and drunk all the time!</p>
             <div class="team-leader-box">
                 <div class="team-leader wow"> 
                     <!-- <div class="team-leader-shadow"><a href="#"></a></div> -->
-                    <img src="img/team-leader-pic1.jpg" alt="">
+                    <img src="img/team-leader-design.jpg" alt="">
                     <!-- <ul>
                         <li><a href="#" class="fa-twitter"></a></li>
                         <li><a href="#" class="fa-facebook"></a></li>
@@ -280,7 +280,7 @@ we were well fed and drunk all the time!</p>
                 </div>
                 <h3 class="wow">Justin Brunner</h3>
                 <span class="wow">Design Lead</span>
-                <p class="wow">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.</p>
+                <p class="wow">Justin brings over 14 years of experience helping clients bring their idea's to life.</p>
             </div>
             <div class="team-leader-box">
                 <div class="team-leader"> 
@@ -332,13 +332,17 @@ we were well fed and drunk all the time!</p>
                 	<h3><i class=" icon-map-marker"></i>Address:</h3>
                 	<span>308 Negra Arroyo Lane<br>Albuquerque, New Mexico, 87111.</span>
                 </div> -->
-                <div class="contact-info-box phone clearfix">
+                <!--<div class="contact-info-box phone clearfix">
                 	<h3><i class="fa-phone"></i>Phone:</h3>
                 	<span>1-800-BOO-YAHH</span>
+                </div>-->
+                <div class="contact-info-box email clearfix">
+                	<h3><i class="fa-pencil"></i>Design:</h3>
+                	<span>justin@cruxstudios.ca</span>
                 </div>
                 <div class="contact-info-box email clearfix">
-                	<h3><i class="fa-pencil"></i>email:</h3>
-                	<span>hello@knightstudios.com</span>
+                    <h3><i class="fa-pencil"></i>Dev:</h3>
+                    <span>trevor@cruxstudios.ca</span>
                 </div>
             	<!-- <div class="contact-info-box hours clearfix">
                 	<h3><i class="fa-clock-o"></i>Hours:</h3>
