@@ -74,7 +74,7 @@
 	    <li class="small-logo"><a href="#header"><img src="img/crux_logo.svg" alt=""></a></li>
             <li><a href="#service">Services</a></li>
             <li><a href="#Portfolio">Portfolio</a></li>
-            <li><a href="#client">Clients</a></li>
+            <!-- <li><a href="#client">Clients</a></li> -->
             <li><a href="#team">Team</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
@@ -189,8 +189,8 @@
       <div class="portfolioFilter">  
         <ul class="Portfolio-nav wow fadeIn delay-02s">
         	<li><a href="#" data-filter="*" class="current" >All</a></li>
-            <li><a href="#" data-filter=".branding" >Branding</a></li>
             <li><a href="#" data-filter=".webdesign" >Web design</a></li>
+            <li><a href="#" data-filter=".development">Development</a></li>
             <li><a href="#" data-filter=".printdesign" >Print design</a></li>
             <li><a href="#" data-filter=".photography" >Photography</a></li>
         </ul>
@@ -199,29 +199,29 @@
 	</div>
     <div class="portfolioContainer wow fadeInUp delay-04s">
             	<div class=" Portfolio-box printdesign">
-                	<a href="#"><img src="img/Portfolio-pic1.jpg" alt=""></a>	
-                	<h3>Foto Album</h3>
-                    <p>Print Design</p>
+                	<a href="#"><img src="img/sm_nelson.jpg" alt=""></a>	
+                	<h3>Nelson Aggregates</h3>
+                    <p>Design / Development</p>
                 </div>
                 <div class="Portfolio-box webdesign">
-                	<a href="#"><img src="img/Portfolio-pic2.jpg" alt=""></a>	
-                	<h3>Luca Theme</h3>
+                	<a href="#"><img src="img/sm_EPB.jpg" alt=""></a>	
+                	<h3>DEX - Interface Design</h3>
                     <p>Web Design</p>
                 </div>
-                <div class=" Portfolio-box branding">
-                	<a href="#"><img src="img/Portfolio-pic3.jpg" alt=""></a>	
-                	<h3>Uni Sans</h3>
-                    <p>Branding</p>
+                <div class=" Portfolio-box development">
+                	<a href="#"><img src="img/sm_iv.jpg" alt=""></a>	
+                	<h3>LHSC In Vitro</h3>
+                    <p>Development</p>
                 </div>
                 <div class=" Portfolio-box photography" >
-                	<a href="#"><img src="img/Portfolio-pic4.jpg" alt=""></a>	
-                	<h3>Vinyl Record</h3>
+                	<a href="#"><img src="img/sm_law_enforcement.jpg" alt=""></a>	
+                	<h3>London Police Services</h3>
                     <p>Photography</p>
                 </div>
-                <div class=" Portfolio-box branding">
-                	<a href="#"><img src="img/Portfolio-pic5.jpg" alt=""></a>	
-                	<h3>Hipster</h3>
-                    <p>Branding</p>
+                <div class=" Portfolio-box development">
+                	<a href="#"><img src="img/sm_ergo.jpg" alt=""></a>	
+                	<h3>3M Ergonomics</h3>
+                    <p>Development</p>
                 </div>
                 <div class=" Portfolio-box photography">
                 	<a href="#"><img src="img/Portfolio-pic6.jpg" alt=""></a>	
@@ -232,7 +232,7 @@
 </section><!--main-section-end-->
 
 
-<section class="main-section client-part" id="client"><!--main-section client-part-start-->
+<!--<section class="main-section client-part" id="client">
 	<div class="container">
 		<b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
     	<div class="row">
@@ -249,8 +249,8 @@ we were well fed and drunk all the time!</p>
             </a></li>
         </ul>
     </div>
-</section><!--main-section client-part-end-->
-<div class="c-logo-part"><!--c-logo-part-start-->
+</section>
+<div class="c-logo-part">
 	<div class="container">
     	<ul>
         	<li><a href="#"><img src="img/c-liogo1.png" alt=""></a></li>
@@ -260,7 +260,7 @@ we were well fed and drunk all the time!</p>
             <li><a href="#"><img src="img/c-liogo5.png" alt=""></a></li>
     	</ul>
 	</div>
-</div><!--c-logo-part-end-->
+</div>-->
 <section class="main-section team" id="team"><!--main-section team-start-->
 	<div class="container">
         <h2>team</h2>
@@ -407,7 +407,9 @@ we were well fed and drunk all the time!</p>
 
 <div class="lightbox">
     <i class="fa fa-times close-lightbox" role="button"></i>
+    <img src="" alt="selected portfolio image" class="img-responsive">
     <h3 class="temp"></h3>
+    <p></p>
 </div>
 
 <script type="text/javascript">
