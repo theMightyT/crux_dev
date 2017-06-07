@@ -65,3 +65,5 @@
     display: inline-block;
     float: none;
 }
+
+.main-nav img { cursor: pointer; }
