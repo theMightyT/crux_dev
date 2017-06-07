@@ -18,6 +18,11 @@
 		lg_ergo : {
 			heading : "Ergonomics App &nbsp;&bull;&nbsp; 3M",
 			details : "Developed an ergnomic pain point application for 3M. Using supplied design, the development involved interactive, dynamic pain point selection which would be used to determine the best available ergonomic products for the user. Video promos were part of the package, as well as links to various parts of the 3M ergo site."
+		},
+
+		lg_nelson : {
+			heading : "Nelson Aggregates Delivery Web App",
+			details : "Crux designed and developed an interactive web application for Nelson Aggregates' customers. Features include an interactive map and dynamic load / delivery rate calculations."
 		}
 	}
 	// todo => keep lightbox at top on window resize (kinda works now but the media query breaks it at one point)

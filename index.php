@@ -74,7 +74,7 @@
 	    <li class="small-logo"><a href="#header"><img src="img/crux_logo.svg" alt=""></a></li>
             <li><a href="#service">Services</a></li>
             <li><a href="#Portfolio">Portfolio</a></li>
-            <li><a href="#client">Clients</a></li>
+            <!-- <li><a href="#client">Clients</a></li> -->
             <li><a href="#team">Team</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
@@ -199,9 +199,9 @@
 	</div>
     <div class="portfolioContainer wow fadeInUp delay-04s">
             	<div class=" Portfolio-box printdesign">
-                	<a href="#"><img src="img/Portfolio-pic1.jpg" alt=""></a>	
-                	<h3>Foto Album</h3>
-                    <p>Print Design</p>
+                	<a href="#"><img src="img/sm_nelson.jpg" alt=""></a>	
+                	<h3>Nelson Aggregates</h3>
+                    <p>Design / Development</p>
                 </div>
                 <div class="Portfolio-box webdesign">
                 	<a href="#"><img src="img/sm_EPB.jpg" alt=""></a>	
@@ -232,7 +232,7 @@
 </section><!--main-section-end-->
 
 
-<section class="main-section client-part" id="client"><!--main-section client-part-start-->
+<!--<section class="main-section client-part" id="client">
 	<div class="container">
 		<b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
     	<div class="row">
@@ -249,8 +249,8 @@ we were well fed and drunk all the time!</p>
             </a></li>
         </ul>
     </div>
-</section><!--main-section client-part-end-->
-<div class="c-logo-part"><!--c-logo-part-start-->
+</section>
+<div class="c-logo-part">
 	<div class="container">
     	<ul>
         	<li><a href="#"><img src="img/c-liogo1.png" alt=""></a></li>
@@ -260,7 +260,7 @@ we were well fed and drunk all the time!</p>
             <li><a href="#"><img src="img/c-liogo5.png" alt=""></a></li>
     	</ul>
 	</div>
-</div><!--c-logo-part-end-->
+</div>-->
 <section class="main-section team" id="team"><!--main-section team-start-->
 	<div class="container">
         <h2>team</h2>
