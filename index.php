@@ -378,7 +378,7 @@ we were well fed and drunk all the time!</p>
                             <div class="validation"></div>
                         </div>
                         
-                        <div class="text-center"><button type="submit" class="input-btn">Send Message</button></div>
+                        <div class="text-center"><button type="submit" name="submit" class="input-btn">Send Message</button></div>
                     </form>
                 </div>	
             </div>
