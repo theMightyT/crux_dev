@@ -185,7 +185,7 @@
 <section class="main-section paddind alabaster" id="Portfolio"><!--main-section-start-->
 	<div class="container">
     	<h2>Portfolio</h2>
-    	<h6>Fresh portfolio of designs that will keep you wanting more.</h6>
+    	<h6>Some of our recent work. Featured project coming soon!</h6>
       <div class="portfolioFilter">  
         <ul class="Portfolio-nav wow fadeIn delay-02s">
         	<li><a href="#" data-filter="*" class="current" >All</a></li>
@@ -198,7 +198,7 @@
         
 	</div>
     <div class="portfolioContainer wow fadeInUp delay-04s">
-            	<div class=" Portfolio-box printdesign">
+            	<div class=" Portfolio-box webdesign">
                 	<a href="#"><img src="img/sm_nelson.jpg" alt=""></a>	
                 	<h3>Nelson Aggregates</h3>
                     <p>Design / Development</p>
@@ -264,7 +264,7 @@ we were well fed and drunk all the time!</p>
 <section class="main-section team" id="team"><!--main-section team-start-->
 	<div class="container">
         <h2>team</h2>
-        <h6>Take a closer look into our amazing team. We won’t bite.</h6>
+        <h6>You provide the vision, we provide the solution.</h6>
         <div class="team-leader-block clearfix">
             <div class="team-leader-box">
                 <div class="team-leader wow"> 
@@ -279,7 +279,7 @@ we were well fed and drunk all the time!</p>
                 </div>
                 <h3 class="wow">Justin Brunner</h3>
                 <span class="wow">Design Lead</span>
-                <p class="wow">Justin brings over 14 years of experience helping clients bring their idea's to life.</p>
+                <p class="wow">Justin brings over 14 years of experience helping clients bring their ideas to life.</p>
             </div>
             <div class="team-leader-box">
                 <div class="team-leader"> 
