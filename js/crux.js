@@ -2,7 +2,7 @@
 	var portfolioDetails = {
 		lg_law_enforcement : {
 			heading : "Promotional Series &nbsp;&bull;&nbsp; London Police Services",
-			details : "One in a series of custom photos to internally promote London Police Services"
+			details : "One in a series of custom photos to internally promote London Police Services. Raw photography artistically edited in Photoshop for dramatic effect."
 		},
 
 		lg_EPB : {
@@ -23,6 +23,11 @@
 		lg_nelson : {
 			heading : "Nelson Aggregates Delivery Web App",
 			details : "Crux designed and developed an interactive web application for Nelson Aggregates' customers. Features include an interactive map and dynamic load / delivery rate calculations."
+		},
+
+		lg_shoppers : {
+			heading : "Shoppers Beauty Book",
+			details : "We developed the Winter / Christmas interactive Shoppers Beauty Book. Features include dynamic served, regionally aware audio and video applications. Personalized Wish List and ecommerce functionality added on."
 		}
 	}
 	// todo => keep lightbox at top on window resize (kinda works now but the media query breaks it at one point)

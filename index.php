@@ -16,7 +16,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, maximum-scale=1">
 
-<title>Homepage</title>
+<title>.: Welcome to Crux Studios :.</title>
 <link rel="icon" href="favicon.png" type="image/png">
 <link rel="shortcut icon" href="favicon.ico" type="img/x-icon">
 
@@ -199,34 +199,34 @@
 	</div>
     <div class="portfolioContainer wow fadeInUp delay-04s">
             	<div class=" Portfolio-box webdesign">
-                	<a href="#"><img src="img/sm_nelson.jpg" alt=""></a>	
+                	<a href="#"><img src="img/sm_nelson.jpg" alt="nelson agg thumb"></a>	
                 	<h3>Nelson Aggregates</h3>
                     <p>Design / Development</p>
                 </div>
                 <div class="Portfolio-box webdesign">
-                	<a href="#"><img src="img/sm_EPB.jpg" alt=""></a>	
+                	<a href="#"><img src="img/sm_EPB.jpg" alt="DEX thumb"></a>	
                 	<h3>DEX - Interface Design</h3>
                     <p>Web Design</p>
                 </div>
                 <div class=" Portfolio-box development">
-                	<a href="#"><img src="img/sm_iv.jpg" alt=""></a>	
+                	<a href="#"><img src="img/sm_iv.jpg" alt="LHSC thumb"></a>	
                 	<h3>LHSC In Vitro</h3>
                     <p>Development</p>
                 </div>
                 <div class=" Portfolio-box photography" >
-                	<a href="#"><img src="img/sm_law_enforcement.jpg" alt=""></a>	
+                	<a href="#"><img src="img/sm_law_enforcement.jpg" alt="LPS thumb"></a>	
                 	<h3>London Police Services</h3>
                     <p>Photography</p>
                 </div>
                 <div class=" Portfolio-box development">
-                	<a href="#"><img src="img/sm_ergo.jpg" alt=""></a>	
+                	<a href="#"><img src="img/sm_ergo.jpg" alt="3M ergo thumb"></a>	
                 	<h3>3M Ergonomics</h3>
                     <p>Development</p>
                 </div>
-                <div class=" Portfolio-box photography">
-                	<a href="#"><img src="img/Portfolio-pic6.jpg" alt=""></a>	
-                	<h3>Windmills</h3>
-                    <p>Photography</p>
+                <div class=" Portfolio-box development">
+                	<a href="#"><img src="img/sm_shoppers.jpg" alt="Shoppers thumb"></a>	
+                	<h3>Shoppers Beauty Book</h3>
+                    <p>Development</p>
                 </div>
     </div>
 </section><!--main-section-end-->
